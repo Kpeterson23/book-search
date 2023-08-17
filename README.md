@@ -17,13 +17,13 @@ This application allows avid reads to search this large engine for many books!
 - [Questions](#questions)
 
 ## Installation
-
-<img width="1920" alt="Screenshot 2023-08-17 at 17 22 24 (2)" src="https://github.com/Kpeterson23/book-search/assets/124640874/37379be8-5551-4602-bbe6-7f237cbb4dcd">
-
+Steps for installation.
+1. Clone this repository
+2. Run npm i for necessary packages etc.
+3. Run npm run develop
 
 ## Usage
 
-To use this application, npm must be installed. First type "npm start" into the terminal, then a localhost page will be created.
 
 ## Screenshots/Deployed Application
 <img width="1470" alt="Screenshot 2023-08-17 at 17 22 24" src="https://github.com/Kpeterson23/book-search/assets/124640874/a692fa8b-4881-4783-8cc2-0e260b38cc7c">
